@@ -17,13 +17,13 @@ const Footer = () => {
                 Design By Sol de Astrea
             </div>
             <div className="sns-links">
-                <a href="#" target="_blank">
+                <a href="https://www.linkedin.com/" target="_blank" rel='noreferrer'>
                     <i className='fab fa-linkedin linkedin' />
                 </a>
-                <a href="#" target="_blank">
+                <a href="https://twitter.com/" target="_blank" rel='noreferrer'>
                     <i className='fab fa-twitter twitter' />
                 </a>
-                <a href="#" target="_blank">
+                <a href="https://www.facebook.com/" target="_blank" rel='noreferrer'>
                     <i className='fab fa-facebook facebook' />
                 </a>
             </div>
